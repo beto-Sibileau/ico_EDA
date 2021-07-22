@@ -2,3 +2,4 @@ dash
 pandas
 requests
 jupyter-dash
+jupyter_server_proxy
