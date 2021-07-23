@@ -74,6 +74,9 @@ docs/_build/
 # PyBuilder
 target/
 
+# output excel
+excel
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
