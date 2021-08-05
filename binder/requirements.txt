@@ -1,5 +1,4 @@
 dash
-numpy
 pandas
 requests
 jupyter-dash
