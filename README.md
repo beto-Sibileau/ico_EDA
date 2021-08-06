@@ -8,7 +8,7 @@ Please consider whitelisting the link if your ad-blocker is interfering with the
 
 <!---
 
-Click to launch Binder environment for explore sources --> 
+Click to launch Binder environment for explore sources -- > 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/beto-Sibileau/ico_EDA/master?filepath=explore_sources.ipynb) .
 
 Once Binder has been launched: Jupyter notebooks could be interactively evaluated in a temporary environment.
