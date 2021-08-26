@@ -1,6 +1,7 @@
 dash
 dash-extensions
 pandas
+openpyxl
 requests
 jupyter-dash
 jupyter_server_proxy
