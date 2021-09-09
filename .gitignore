@@ -77,8 +77,17 @@ target/
 # output excel
 excel
 
+# 18p pop Excel file
+18_plus_population.xlsx
+
+# ICO population file v08_31
+Districtwise\ Population\ Projection\ India\ 2021.xlsx
+
 # geojson tests
 geo_json.ipynb
+
+# tests sharepoint
+connect_365.ipynb
 
 # Jupyter Notebook
 .ipynb_checkpoints
